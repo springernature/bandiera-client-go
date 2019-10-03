@@ -4,6 +4,7 @@ This is a client for talking to the [Bandiera][bandiera] feature flagging servic
 
 This client is compatible with the v2 Bandiera API.
 
+[![Build status][shield-build]][info-build]
 [![MIT licensed][shield-license]][info-license]
 
 ## Installation
@@ -50,6 +51,8 @@ Bandiera Client Go is licensed under the [MIT License][mit].
 [mit]: http://opensource.org/licenses/mit-license.php
 [info-license]: LICENSE
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
+[info-build]: https://travis-ci.org/springernature/bandiera-client-go
+[shield-build]: https://img.shields.io/travis/springernature/bandiera-client-go/master.svg
 
 
 
